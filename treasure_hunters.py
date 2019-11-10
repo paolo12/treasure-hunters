@@ -12,8 +12,7 @@ rules = "Правила:\n1. Ход выполняется клавишами \"
         "5. Необходимо найти клад и принести его к выходу.\n"
 
 # Players
-player1 = {"x1": 1, "y1": 1, "content": "", "visible": 1, "pickaxe": 3, "moves": 0}
-player2 = {"x1": 1, "y1": 1, "content": "", "visible": 1, "pickaxe": 3, "moves": 0}
+player = {"x1": 1, "y1": 1, "content": "", "visible": 1, "pickaxe": 3, "moves": 0}
 
 # Field size
 n = 10
